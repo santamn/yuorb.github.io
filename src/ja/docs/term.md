@@ -133,7 +133,7 @@ title: 用語一覧
     * <ruby>命名<rt>めいめい</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> <abbr>NAM</abbr> Naming Adjunct
     * <ruby>成句<rt>せいく</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> <abbr>PHR</abbr> Phrasal Adjunct
   * <ruby>感嘆<rt>かんたん</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Bias Adjuncts
-  * <ruby>文析<rt>ぶんせき</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Parsing Adjuncts
+  * <ruby>分析<rt>ぶんせき</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Parsing Adjuncts
 
 3. <ruby>参照詞<rt>さんしょうし</rt></ruby> Referentials
   * <ruby>単称<rt>たんしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby> Single-Referent Referential
