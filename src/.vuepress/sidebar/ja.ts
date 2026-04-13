@@ -4,8 +4,7 @@ export const jaSidebar = sidebar({
   "/ja/docs": [
     {
       text: "新イスクイル文法書",
-      prefix: "docs/",
-      link: "docs/readme.md",
+      link: "",
       children: [
         "term",
         "cheat",
@@ -19,7 +18,7 @@ export const jaSidebar = sidebar({
   "/turorial": [
   {
       text: "チュートリアル",
-      link: "tutorial/readme.md",
+      link: "",
       children: [
         "beginner","numerals","loanwords","idioms","old"
       ],

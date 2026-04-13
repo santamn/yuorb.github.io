@@ -4,7 +4,7 @@ export const frSidebar = sidebar({
   "/fr/docs": [
     {
       text: "Grammaire",
-      link: "docs/readme.md",
+      link: "",
       children: [
         "term",
         // "cheat",

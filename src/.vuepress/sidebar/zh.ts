@@ -20,7 +20,7 @@ export const zhSidebar = sidebar({
     "/turorial": [
   {
       text: "同人教学",
-      link: "tutorial/readme.md",
+      link: "",
       children: [
         "beginner","numerals","loanwords","idioms","old"
       ],
